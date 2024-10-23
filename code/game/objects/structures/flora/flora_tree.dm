@@ -137,7 +137,7 @@
 	shadow = FALSE
 
 /obj/structure/flora/tree/palm
-	icon = 'icons/obj/flora/palmtrees.dmi'
+	icon = 'icons/obj/flora/desertflora.dmi'
 	icon_state = "palm1"
 	stump = FALSE
 	shadow = FALSE
