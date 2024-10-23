@@ -3520,6 +3520,7 @@
 #include "modular_alsahra\cardgame_2\cardgame_2.dm"
 #include "modular_alsahra\cardgame_2\cardholder.dm"
 #include "modular_alsahra\cardgame_2\cardpacks_and_spawner.dm"
+#include "modular_alsahra\cardgame_2\corrupted_beings.dm"
 #include "modular_alsahra\cardgame_2\items.dm"
 #include "modular_alsahra\task_master\_task_master_defines.dm"
 #include "modular_alsahra\task_master\human_helper.dm"
