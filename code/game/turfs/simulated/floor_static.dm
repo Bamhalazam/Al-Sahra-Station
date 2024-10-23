@@ -96,3 +96,12 @@ Shale turfs - Credit to CM-SS13!
 	oxygen = 0
 	nitrogen = 0
 	carbon_dioxide = 850
+
+/*
+Desert
+*/
+/turf/simulated/floor/fixed/desert
+	name = "soft sand"
+	icon = 'icons/turf/flooring/dirt.dmi'
+	icon_state = "desert"
+	initial_flooring = /decl/flooring/desert

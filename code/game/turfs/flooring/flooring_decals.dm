@@ -1583,6 +1583,16 @@ obj/effect/floor_decal/corner_techfloor_gray
 	name = "shale edge"
 	icon_state = "shale_edge_corner"
 
+/*Sand Edges*/
+
+/obj/effect/floor_decal/spline/desert_edge
+	name = "desert edge"
+	icon_state = "desert_edges"
+
+/obj/effect/floor_decal/spline/desert_edge/corner
+	name = "desert edge"
+	icon_state = "desert_edge_corner"
+
 /* Industrail Plant*/
 
 /obj/effect/floor_decal/industrial_plant

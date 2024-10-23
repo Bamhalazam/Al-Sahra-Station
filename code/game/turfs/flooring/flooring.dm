@@ -177,6 +177,21 @@ var/list/flooring_types
 	build_type = null
 	footstep_sound = "asteroid"
 
+//*Sands*//
+
+/decl/flooring/desert
+	name = "warm sands"
+	desc = "It reminds you of just how little there is left."
+	icon = 'icons/turf/flooring/dirt.dmi'
+	icon_base = "desert"
+	has_base_range = 3
+	damage_temperature = T0C+120
+	flags = TURF_REMOVE_SHOVEL | TURF_EDGES_EXTERNAL | TURF_HAS_CORNERS
+	build_type = null
+	footstep_sound = "asteroid"
+	floor_smooth = SMOOTH_NONE
+	space_smooth = SMOOTH_NONE
+
 //=========PLATING==========\\
 
 /decl/flooring/reinforced/plating
@@ -775,7 +790,7 @@ var/list/flooring_types
 	name = "floor"
 	icon_base = "derelict4"
 	build_type = /obj/item/stack/tile/derelict/white_big_edges
-
+	
 /*Beach/Water*/
 
 /decl/flooring/beach/sand
@@ -790,7 +805,7 @@ var/list/flooring_types
 /decl/flooring/beach/desert
 	icon = 'icons/turf/flooring/beach.dmi'
 	icon_base = "desert"
-
+	
 /decl/flooring/beach/drywater
 	icon = 'icons/turf/flooring/beach.dmi'
 	icon_base = "sand1"

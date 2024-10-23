@@ -792,6 +792,14 @@
 	nitrogen = 0
 	carbon_dioxide = 850
 
+/*Sands*/
+
+/turf/simulated/floor/asteroid/desert
+	name = "cold sands"
+	icon = 'icons/turf/flooring/dirt.dmi'
+	icon_state = "desert0"
+	initial_flooring = /decl/flooring/desert
+
 /*POOL - new pool tile and the splash code to go with it*/
 /turf/simulated/floor/pool
 	name = "poolwater"
