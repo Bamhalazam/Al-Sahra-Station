@@ -1,5 +1,5 @@
 {
-	"file": "sojourn-station.dme",
+	"file": "alsahra-station.dme",
 	"scannable_directory": "code/",
 	"subdirectories": true,
 	"excluded_files": [
@@ -10,7 +10,7 @@
 		"code/datums/craft/recipes/repairs.dm",
 		"code/datums/craft/recipes/testing.dm",
 		"code/datums/craft/recipes/_todo.dm",
-		"code/datums/music_tracks/sojourn.dm",
+		"code/datums/music_tracks/alsahra.dm",
 		"code/datums/objective/borer.dm",
 		"code/datums/setup_option/backgrounds/example.dm",
 		"code/datums/wires/suit_storage_unit.dm",

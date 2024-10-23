@@ -25,7 +25,7 @@ Any pull requests which add or change user-visible features should have a change
 
 
 # Coding Policies
-Eris and thus Sojourn has an unusual top-down development style, with future features largely planned out.
+Eris and thus alsahra has an unusual top-down development style, with future features largely planned out.
 To avoid conflicts, it is strongly recommended to discuss any proposed changes in the discord, and get the approval of the development team, before starting work on something that may ultimately be rejected. We can work with your ideas and help fit them into the broader vision.
 
 When making adjustments to game balance, changes should be explained, and generally made in small steps unless there's an egregious problem. 15-25% at a time is the recommended change for balancing values.

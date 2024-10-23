@@ -926,14 +926,14 @@ The guild has a lot of fuel tanks in storage, and more can be ordered for rather
 				Xanoranth Syndicate." - Dr. Cinead, Soteria Robotics Division.
 
 				<h2><a name="Generic"> Chassis that Respect the Users Freedom</h2>
-				<center><img src="https://sojourn13.space/w/images/5/58/Generic.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/5/58/Generic.png"></img></center>
 				<p>Far from being single-origin, these 'standard' frames encompass a wide variety of open source,
 				unclaimed or otherwise "freely" available frames. These frames come from sources ranging to hobbyist
 				collectives to long-since-deprecated trade claims abandoned to the public domain by their
 				corporate owners.
 
 				<h2><a name="Zeng-Hu"> 'Teknotik' - Style and Substance</h2>
-				<center><img src="https://sojourn13.space/w/images/e/ee/Zenhgu.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/e/ee/Zenhgu.png"></img></center>
 				<p>Another truly old but no-less respected line from the Giant of Medical Miracles and Horrors both. Where some lines
 				fixated on pure pragmatism Zeng-Hured no expense on the appearance of these bots. From Sleek humanoid frames to
 				high-speed flying drones these bots were top of the shelf for decades before finally being displaced by Greyson's
@@ -942,13 +942,13 @@ The guild has a lot of fuel tanks in storage, and more can be ordered for rather
 				that even heights of technology once viewed as science-fiction may one day be looked back on as tragically quaint.
 
 				<h2><a name="Bishop"> 'Droid' - Timeless Classics</h2>
-				<center><img src="https://sojourn13.space/w/images/f/f0/Bishop.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/f/f0/Bishop.png"></img></center>
 				<p>A positively venerable line, Bishop long stood as giants of the cybernetics and robotics field,	shoulder to
 				shoulder with the likes of Zeng-Hu and early Greyson Positronics. While their interest in the field of robotics
 				waned during the halcyon days of Greyson Positronics these frames remains utterly ubiquitous classics.
 
 				<h2><a name="Xion"> 'Eclectic' - Timeless Classics</h2>
-				<center><img src="https://sojourn13.space/w/images/6/63/Xion.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/6/63/Xion.png"></img></center>
 				<p>Not one cohesive line, but instead a small number of designs from little known manufacturing company 'Xion'. Once a
 				pioneer in the field of automated recursive repair solutions, Xion has never once allowed the galaxy to forget that
 				they designed the first ever repair drone - A claim supported by little more than a resemblance in their more modern
@@ -957,7 +957,7 @@ The guild has a lot of fuel tanks in storage, and more can be ordered for rather
 				for 'eyebot' style drones these bots were sadly an economic failure in their time.
 
 				<h2><a name="Miss M"> Manmade horrors never looked so friendly</h2>
-				<center><img src="https://sojourn13.space/w/images/0/0f/Miss_M.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/0/0f/Miss_M.png"></img></center>
 				<p>A now dated line from the long-since defunct 'Missus Machining', the Miss M. line of cyborgs was marketed both
 				towards wealthy individuals with an eye for retro aesthetics and poorer corps without the ability to
 				procure higher end 'Customer Friendly' units. It should not go unsaid that despite the companies
@@ -966,14 +966,14 @@ The guild has a lot of fuel tanks in storage, and more can be ordered for rather
 
 
 				<h2><a name="Tallborgs">'tallbot' - Towering Metal Friends</h2>
-				<center><img src="https://sojourn13.space/w/images/8/86/Mekanika.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/8/86/Mekanika.png"></img></center>
 				<p>Affectionately known as 'TallBorgs', these units while wildly varying in both module and appearance
 				have proven to be quite popular both for their utility and shockingly low price, owing to their
 				pedigree as products of MekaNIKA(One of the few non-megacorp bulk producers of cyborg frames and,
 				a corp with surprisingly 'customer-first' product policy.).
 
 				<h2><a name="MekaNIKA ">'K4T' -Silicon Gentle Giants</h2>
-				<center><img src="https://sojourn13.space/w/images/f/f5/K4T.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/f/f5/K4T.png"></img></center>
 				<p>Amid concerns that their 'tallbot' Mekanoids "appeared too flimsy" come the K4T line. Where Tallbots
 				are svelte and graceful, K4Tbots are notably broader in appearance - It bears noting that despite
 				appearances, these walking tanks do not perform notably better or worse than their slimmer "siblings".
@@ -982,7 +982,7 @@ The guild has a lot of fuel tanks in storage, and more can be ordered for rather
 				an equivilent human.
 
 				<h2><a name="Pirate">'Homebrew' - From our friends among the Stars</h2>
-				<center><img src="https://sojourn13.space/w/images/b/bf/SYNDIE.png"></img></center>
+				<center><img src="https://alsahra13.space/w/images/b/bf/SYNDIE.png"></img></center>
 				<p>"I must admit, I was initially not sure /how/ to describe these units when word came to me that a deal had
 				been made with the Iron Lords- brokered by the Xanoranth Syndicate, resulting in our obtaining quite a few
 				of these uniquely modified frames. Like most frames, these are style over substance meant to mesh neatly with

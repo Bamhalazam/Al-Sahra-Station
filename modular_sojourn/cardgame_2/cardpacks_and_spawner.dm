@@ -109,7 +109,7 @@
 /obj/item/pack_card_carp
 	name = "CardCarpCo Pack"
 	desc = "For those with disposible income. Contains 5 cards and a pelt card."
-	icon = 'modular_sojourn/cardgame_2/cardgame_sprites.dmi'
+	icon = 'modular_alsahra/cardgame_2/cardgame_sprites.dmi'
 	icon_state = "card_pack"
 	w_class = ITEM_SIZE_TINY
 
@@ -128,7 +128,7 @@
 /obj/item/pack_card_carp/flyers_booster_pack
 	name = "CardCarpCo Flyer Booster Pack"
 	desc = "For those with disposible income. Contains 3 cards, 2 are guaranted to be flyers and a pelt card."
-	icon = 'modular_sojourn/cardgame_2/cardgame_sprites.dmi'
+	icon = 'modular_alsahra/cardgame_2/cardgame_sprites.dmi'
 	icon_state = "card_pack"
 	w_class = ITEM_SIZE_TINY
 
@@ -145,7 +145,7 @@
 /obj/item/pack_card_carp/rare_booster_pack
 	name = "CardCarpCo Rare Booster Pack"
 	desc = "For those with disposible income. Contains 3 cards, 1 are guaranted to be rare and a pelt card."
-	icon = 'modular_sojourn/cardgame_2/cardgame_sprites.dmi'
+	icon = 'modular_alsahra/cardgame_2/cardgame_sprites.dmi'
 	icon_state = "card_pack"
 	w_class = ITEM_SIZE_TINY
 

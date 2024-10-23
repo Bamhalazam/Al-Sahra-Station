@@ -2,7 +2,7 @@
 	name = "Coder Anomaly"
 	desc = "Something not meant to be seen by the eyes of players, \
 	sad."
-	icon = 'modular_sojourn/anomalies/stalker_anomalies.dmi'
+	icon = 'modular_alsahra/anomalies/stalker_anomalies.dmi'
 	var/active = FALSE
 	pixel_x = 8
 	pixel_y = 8

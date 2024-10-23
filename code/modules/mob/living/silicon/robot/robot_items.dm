@@ -559,7 +559,7 @@
 /*
 		The following code was ported from Civ13-RP and heavily adjusted.
 		It is more efficient, without the UI weirdness, and properly works with borgs.
-		The code has been adjusted to work with Sojourn without problems, but possible weirdness may occur.
+		The code has been adjusted to work with alsahra without problems, but possible weirdness may occur.
 		~Ritea
 */
 

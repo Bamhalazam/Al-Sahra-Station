@@ -5,7 +5,7 @@
 	name = "Blue Fencer"
 	desc = "Something that doesn't even match this world's aesthetic."
 	icon_state = "fencer" //Dream Sprite
-	icon = 'modular_sojourn/fencer.dmi'
+	icon = 'modular_alsahra/fencer.dmi'
 
 	turns_per_move = 3
 	//Fake nonreal heath values they dont matter for this mob

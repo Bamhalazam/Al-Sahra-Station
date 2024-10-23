@@ -567,7 +567,7 @@
 	I.gun_loc_tag = GUN_BARREL
 
 */
-/* //The handholder rail and its consequences have been a disaster for Sojournkind.
+/* //The handholder rail and its consequences have been a disaster for alsahrakind.
 /obj/item/gun_upgrade/mechanism/gun_rail
 	name = "H&S \"HandHolder\" Barrel Rail"
 	desc = "A simple magnetic barrel rail, designed to fit onto a variety of weapons. Easy to attach, impossible to remove."

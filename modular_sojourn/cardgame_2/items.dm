@@ -3,7 +3,7 @@
 	name = "Scale"
 	desc = "A 10 point scale, used when tallying points. Alt+Click to remove a tally, and Ctrl+Shift+Click to add a tally."
 	icon_state = "scale"
-	icon = 'modular_sojourn/cardgame_2/cardgame_sprites.dmi'
+	icon = 'modular_alsahra/cardgame_2/cardgame_sprites.dmi'
 	var/tally = 0 //Number
 	w_class = ITEM_SIZE_SMALL
 
@@ -44,7 +44,7 @@
 	desc = "A bone pile, used when tallying marks. Alt+Click to remove a tally, and Ctrl+Shift+Click to add a tally.\
 	Used for tracking life points in special games or more commonly keeping track of bone counters. Primarily used for CardCarpCo games."
 	icon_state = "skull"
-	icon = 'modular_sojourn/cardgame_2/cardgame_sprites.dmi'
+	icon = 'modular_alsahra/cardgame_2/cardgame_sprites.dmi'
 	var/tally = 0 //Number
 	w_class = ITEM_SIZE_SMALL
 

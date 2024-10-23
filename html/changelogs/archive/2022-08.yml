@@ -28,7 +28,7 @@
   - imageadd: added 4 new on-mob icons and 2 new icons
   - spellcheck: changed the grammar of some holster text to be less guncentric, since
       scabbards are a subtype of holsters.
-  - code_imp: ported code from Sojourn to allow holstering swords
+  - code_imp: ported code from alsahra to allow holstering swords
   pexel5:
   - rscadd: The ability to take glasses that protect from flash for heads of departments/
   - bugfix: Sunglasses desc.

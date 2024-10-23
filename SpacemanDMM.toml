@@ -1,4 +1,4 @@
-environment = "sojourn-station.dme"
+environment = "alsahra-station.dme"
 
 [langserver]
 dreamchecker = true
