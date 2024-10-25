@@ -291,3 +291,49 @@
 	icon_state = "tree5"
 	pixel_x = -32
 	pixel_y = 5
+
+//Desert Flora
+
+/obj/structure/flora/tree/desert
+	name = "tree"
+	icon = 'icons/obj/flora/deserttree.dmi'
+	shadow_overlay = "shadow_overlay"
+	icon_state = "tree"
+	pixel_x = -45
+	pixel_y = -16
+
+/obj/structure/flora/tree/desert/variant1
+	icon = 'icons/obj/flora/deserttree.dmi'
+	shadow_overlay = "shadow_overlay1"
+	icon_state = "tree2"
+	pixel_x = -45
+	pixel_y = -16
+
+/obj/structure/flora/tree/desert/variant2
+	icon = 'icons/obj/flora/deserttree.dmi'
+	shadow_overlay = "shadow_overlay2"
+	icon_state = "tree3"
+	pixel_x = -45
+	pixel_y = -16
+
+/obj/structure/flora/tree/desert_small
+	icon = 'icons/obj/flora/deserttreesmall.dmi'
+	shadow_overlay = "shadow_overlay"
+	stump_type = /obj/structure/flora/stump/small
+	icon_state = "tree"
+	pixel_x = -30
+	pixel_y = -16
+
+/obj/structure/flora/tree/desert_small/variant1
+	icon = 'icons/obj/flora/deserttreesmall.dmi'
+	shadow_overlay = "shadow_overlay1"
+	icon_state = "tree2"
+	pixel_x = -30
+	pixel_y = -16
+
+/obj/structure/flora/tree/desert_small/variant2
+	icon = 'icons/obj/flora/deserttreesmall.dmi'
+	shadow_overlay = "shadow_overlay2"
+	icon_state = "tree3"
+	pixel_x = -30
+	pixel_y = -16

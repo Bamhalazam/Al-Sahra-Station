@@ -67,4 +67,30 @@
 				/obj/structure/flora/tree/jungle/variant4,\
 				/obj/structure/flora/tree/jungle/variant5)
 
+//Desert Trees
 
+/obj/random/flora/small_desert_tree
+	name = "random small desert tree (100%)"
+	spawn_nothing_percentage = 0
+
+/obj/random/flora/small_desert_tree/low
+	name = "random small desert tree (75%)"
+	spawn_nothing_percentage = 25
+
+/obj/random/flora/small_desert_tree/item_to_spawn()
+	return pick(/obj/structure/flora/tree/desert_small,\
+				/obj/structure/flora/tree/desert_small/variant1,\
+				/obj/structure/flora/tree/desert_small/variant2)
+
+/obj/random/flora/desert_tree
+	name = "random desert tree (100%)"
+	spawn_nothing_percentage = 0
+
+/obj/random/flora/desert_tree/low
+	name = "random desert tree (75%)"
+	spawn_nothing_percentage = 10
+
+/obj/random/flora/desert_tree/item_to_spawn()
+	return pick(/obj/structure/flora/tree/desert,\
+				/obj/structure/flora/tree/desert/variant1,\
+				/obj/structure/flora/tree/desert/variant2)
